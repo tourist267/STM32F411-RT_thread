@@ -394,6 +394,16 @@
               <FileType>1</FileType>
               <FilePath>.\applications\src\led.c</FilePath>
             </File>
+            <File>
+              <FileName>LCD.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\applications\src\LCD.c</FilePath>
+            </File>
+            <File>
+              <FileName>picture.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\applications\src\picture.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
